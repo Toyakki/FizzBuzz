@@ -1,4 +1,4 @@
-public class Multiple {
+public class Multiples {
     public static void main(String[] args) {
         int count = 0;
 
